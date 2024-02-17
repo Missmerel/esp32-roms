@@ -9,3 +9,11 @@ The ROMs also include various third-party libraries. The list along with the res
 The ROM code of the currently available ESP32 series of chips is not open-source.
 
 The ROM binaries are released under the [Apache License Version 2.0](LICENSE), as noted [here](https://github.com/espressif/esp-rom-elfs/).
+
+
+
+17-02-2024
+
+cc merel 
+
+missmerel@proton.me
